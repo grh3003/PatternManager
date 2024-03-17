@@ -1,0 +1,3 @@
+pattern1, path1, true, 1
+2, pattern2, path2, false
+3, pattern3, path3, true

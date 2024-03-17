@@ -1,0 +1,3 @@
+42, myPattern, src/patterns/Functional.pat, false
+43, dummyPattern, src/patterns/Dummy.pat, true
+44, anotherPattern, src/patterns/Another.pat, false
