@@ -33,6 +33,24 @@ project-root
 
 - Follow the instructions provided by the demo program to interact with the pattern manager application and test its functionalities.
 
+## How to Build and Test
+
+1. Clone the Repository: 
+
+``` git clone https://github.com/grh3003/PatternManager.git```
+
+1. Build the Project:
+
+Use Maven to build the project by running the following command:
+
+```mvn clean install```
+
+3. Run Tests:
+
+After a successful build, you can run the unit tests using the following command:
+```mvn test```
+
+This will execute all the unit tests and display the results.
 
 
 # Questions to be answered:
